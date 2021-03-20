@@ -1,0 +1,70 @@
+.add{
+	margin-top: 5%; 
+}
+
+.add-button{
+	background-color: #0335B7;
+	color: #FFFFFF;
+	font-family: 'Lato';
+	font-weight: 300;
+	margin-left: 60%;
+	font-size: 75%;
+	width: 40%;
+	margin-right: 3%;
+	border: none;
+	border-radius: 8px;
+	padding: 5%;
+}
+
+.bord{
+	border-right:4px solid rgba(0, 0, 0, 1);
+	padding-top: 5%;
+    padding-left: 43% !important;
+
+}
+.form-content{
+	margin-top: 5%;
+}
+
+.form-label{
+	font-size: 10px;
+	color: #0335B7; 	
+	margin-bottom: .2rem;
+}
+
+input{
+	height: 30px;
+	border-color: #0335B7 !important;
+}
+
+.long{
+	width: 82% !important;
+}
+
+.main-content{
+	padding-bottom: 15%;
+}
+
+.table{
+	margin-left: 3%;
+	width: 85%;
+
+}
+
+.table-content{
+	margin-top: 1%;
+
+}
+
+table th:first-child{
+  border-radius:10px 0 0 10px;
+}
+
+table th:last-child{
+  border-radius:0 10px 10px 0;
+}
+
+
+th{
+	padding: 50%;
+}

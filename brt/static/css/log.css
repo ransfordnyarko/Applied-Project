@@ -1,0 +1,79 @@
+#admin{
+	width: 120px;
+	height: 120px;
+}
+
+#admin-row{
+	margin-top: 7%;
+	margin-left: 40%;;
+}
+
+.bn{
+	background-color: #C3001B;
+	border: none !important ;
+	border-color: transparent;
+	color: #FFF;
+}
+
+.bn:hover{
+	background-color: #FFF;
+	color: #C3001B;
+	border: 3px solid #C3001B !important;
+}
+
+
+.field{
+	margin-top: 3%;
+	margin-left: 25%;
+}
+
+.form-control{
+	margin-bottom: 2%;
+	box-sizing: border-box;
+	border: 1px solid #0335B7;
+	outline-style: none;
+	box-shadow: none;
+}
+
+.form-control:focus {
+  border: 3px solid #555;
+  outline-style: none;
+  box-shadow: none;
+
+}
+.form-label{
+	margin: 0%;
+
+}
+
+
+#logo{
+	margin-left: 6%;
+}
+.image{
+	width: 632px;
+	height: 630px;
+}
+
+
+
+.mb-3 {
+
+	width: 70%;
+}
+
+#page {
+	background-color: #F2F5FA;
+	margin: 4%;
+}
+
+.top{
+	margin-top: 4%;
+	margin-left: 2%;
+}
+
+
+
+
+
+
